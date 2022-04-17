@@ -4,18 +4,6 @@
  * Copyright 2014-2021 Froala Labs
  */
 
- body {
-   background: url('images/background.jpg');
-   padding-bottom: 127px;
- }
-
- .content {
-  background: #ffff;
-  width: 1366px;
-  margin: 127px auto 0;
-  overflow: hidden;
- }
-
 .fr-clearfix::after {
   clear: both;
   display: block;
